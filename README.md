@@ -1,5 +1,6 @@
 # ИИ-ассистент для подготовки к экзамену ELTIS Elementary
 
+![](https://github.com/ShAlexSpb/ai_ELTIS_assistent/blob/main/Снимок%20экрана%202025-02-24%20в%2013.53.48.png?raw=true)
 ![](https://github.com/ShAlexSpb/ai_ELTIS_assistent/blob/main/Снимок%20экрана%202025-02-24%20в%2013.53.38.png?raw=true)
 
 
